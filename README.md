@@ -1,4 +1,4 @@
-# 🧬 Phi-4 Vision + Audio mmproj Generator (experimental)
+# 🧬 Phi-4 Vision + Audio mmproj Generator
 
 <div align="center">
 
